@@ -56,30 +56,39 @@ The implementation consists of several core functions that handle different aspe
 
 The AI agent is configured with specialized instructions for manufacturing component analysis:
 
-\begin{verbatim}
-expertIn: "You are expert to give alternative suggestions for a missing component of a production order"
+\begin{lstlisting}[breaklines=true, basicstyle=\small\ttfamily]
+expertIn: "You are expert to give alternative suggestions
+for a missing component of a production order"
 initialInstructions: |
-  Goal: Find possible alternative components that might replace a missing component 
-  of the target production order by reviewing other production orders that use similar components.
-  
+  Goal: Find possible alternative components that might
+  replace a missing component of the target production
+  order by reviewing other production orders that use
+  similar components.
+
   1. Initial Verification
-  a. Verify that the target production order has at least one missing component.
-  b. If there is more than one missing component, identify which specific component 
-     you need to find an alternative for.
-  
+  a. Verify that the target production order has at least
+     one missing component.
+  b. If there is more than one missing component, identify
+     which specific component you need to find an
+     alternative for.
+
   2. Get Target Order's Components
-  a. Use the get_po_components tool to retrieve the complete list of components.
-  b. Capture both Material Name and BOM (BillOfMaterialItemNumber).
-  
+  a. Use the get_po_components tool to retrieve the
+     complete list of components.
+  b. Capture both Material Name and BOM
+     (BillOfMaterialItemNumber).
+
   3. Find Potential Alternative Components
-  a. Get reference production orders using get_ref_orders tool.
+  a. Get reference production orders using get_ref_orders
+     tool.
   b. Compare component lists with 50%+ matching criteria.
-  c. Identify functionally similar components as alternatives.
-  
+  c. Identify functionally similar components as
+     alternatives.
+
   4. Final Output to User
   a. Display alternatives in markdown table format.
   b. Include Material Name and Production Order ID.
-\end{verbatim}
+\end{lstlisting}
 
 \subsection{Data Flow Process}
 

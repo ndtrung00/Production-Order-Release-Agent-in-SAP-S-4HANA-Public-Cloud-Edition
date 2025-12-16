@@ -31,33 +31,33 @@
 \contentsline {subsubsection}{Component Analysis}{10}{section*.8}%
 \contentsline {subsubsection}{AI-Powered Alternative Discovery}{10}{section*.8}%
 \contentsline {subsection}{AI Agent Configuration}{10}{section*.8}%
-\contentsline {subsection}{Data Flow Process}{11}{section*.8}%
+\contentsline {subsection}{Data Flow Process}{11}{lstnumber.-1.31}%
 \contentsline {section}{\numberline {4.3}UI Mockups and UX}{11}{section.4.3}%
 \contentsline {subsection}{User Experience Design}{11}{section*.11}%
-\contentsline {subsection}{Key Features}{12}{section*.11}%
-\contentsline {subsubsection}{Intelligent Component Matching}{12}{section*.11}%
+\contentsline {subsection}{Key Features}{11}{section*.11}%
+\contentsline {subsubsection}{Intelligent Component Matching}{11}{section*.11}%
 \contentsline {subsubsection}{Integration Capabilities}{12}{section*.11}%
 \contentsline {chapter}{\numberline {5}Evaluation}{12}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Evaluation Criteria}{12}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Test Setup}{13}{section.5.2}%
-\contentsline {subsection}{Test Environment}{13}{section*.12}%
+\contentsline {section}{\numberline {5.2}Test Setup}{12}{section.5.2}%
+\contentsline {subsection}{Test Environment}{12}{section*.12}%
 \contentsline {subsection}{Test Dataset}{13}{section*.12}%
 \contentsline {subsection}{Test Scenario Explanations}{13}{table.caption.13}%
 \contentsline {subsection}{Testing Methodology}{14}{table.caption.14}%
 \contentsline {section}{\numberline {5.3}Results}{14}{section.5.3}%
 \contentsline {subsection}{Overall Performance}{14}{section*.15}%
 \contentsline {subsection}{Component Recommendation Analysis}{14}{section*.15}%
-\contentsline {subsection}{Key Findings}{15}{section*.15}%
+\contentsline {subsection}{Key Findings}{14}{section*.15}%
 \contentsline {section}{\numberline {5.4}Discussion of Results}{15}{section.5.4}%
 \contentsline {subsection}{Strengths of the Agent}{15}{section*.16}%
 \contentsline {chapter}{\numberline {6}Discussion and Outlook}{15}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Economic Analysis}{15}{section.6.1}%
-\contentsline {subsection}{Cost Analysis Based on Real Usage Traces}{15}{section*.17}%
-\contentsline {subsubsection}{SAP Joule Pricing Model}{15}{section*.17}%
+\contentsline {subsection}{Cost Analysis Based on Real Usage Traces}{16}{section*.17}%
+\contentsline {subsubsection}{SAP Joule Pricing Model}{16}{section*.17}%
 \contentsline {subsubsection}{Scenario Analysis: 10 CU Reserved}{16}{section*.17}%
 \contentsline {subsection}{Comparison with OpenAI Pricing}{16}{section*.17}%
 \contentsline {subsection}{Direct Cost Comparison}{16}{section*.17}%
-\contentsline {subsection}{Key Insights}{16}{table.caption.18}%
+\contentsline {subsection}{Key Insights}{17}{table.caption.18}%
 \contentsline {subsection}{Scaling Considerations}{17}{Item.24}%
 \contentsline {section}{\numberline {6.2}Challenges and Limitations}{17}{section.6.2}%
 \contentsline {subsection}{Environment and Access Constraints}{17}{section*.19}%
