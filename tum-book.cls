@@ -225,11 +225,11 @@
     { \flushleft\huge\bfseries\center Declaration of Academic Integrity \par}
     \vspace{10mm}
     \noindent
-    I confirm that this bachelor's thesis is my own work and I have documented all sources and material used.
+    I confirm that this Interdisciplinary Project and its report is my own work and I have documented all sources and material used.
     \par\noindent
-    I am aware that the thesis in digital form can be examined for the use of unauthorized aid and in order to determine whether the thesis as a whole or parts incorporated in it may be deemed as plagiarism. For the comparison of my work with existing sources I agree that it shall be entered in a database where it shall also remain after examination, to enable comparison with future theses submitted. Further rights of reproduction and usage, however, are not granted here.
+    I am aware that this report in digital form can be examined for the use of unauthorized aid and in order to determine whether the report as a whole or parts incorporated in it may be deemed as plagiarism. For the comparison of my work with existing sources I agree that it shall be entered in a database where it shall also remain after examination, to enable comparison with future reports submitted. Further rights of reproduction and usage, however, are not granted here.
     \par\noindent
-    This thesis was not previously presented to another examination board and has not been published. \par
+    This Interdisciplinary Project and its report was not previously presented to another examination board and has not been published. \par
     \begin{center}
       \vspace{30mm}\noindent
       \thehood, \thesubmissiondate \hspace{5cm} \@author\par
