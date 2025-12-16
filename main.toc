@@ -1,68 +1,68 @@
 \babel@toc {english}{}\relax 
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Abstract}{3}{Doc-Start}%
-\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Context and Motivation}{7}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Production Order Domain Terminology}{7}{section.1.2}%
-\contentsline {subsection}{General Manufacturing Concepts}{7}{section*.1}%
-\contentsline {subsection}{Production Order Definition and Attributes}{7}{section*.1}%
-\contentsline {subsection}{Production Order Statuses}{8}{section*.1}%
-\contentsline {subsection}{Production Order Process Flow}{8}{table.caption.2}%
-\contentsline {section}{\numberline {1.3}Problem Statement}{8}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Objectives and Research Questions}{9}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Structure of the Report}{9}{section.1.5}%
-\contentsline {chapter}{\numberline {2}Related Work}{9}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Production Order Release in SAP S/4HANA}{9}{section.2.1}%
-\contentsline {section}{\numberline {2.2}SAP Joule}{10}{section.2.2}%
-\contentsline {section}{\numberline {2.3}SAP Agent Builder}{10}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Solution Design}{10}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Requirements}{10}{section.3.1}%
-\contentsline {subsection}{Functional Requirements}{10}{section*.3}%
-\contentsline {subsection}{Non-Functional Requirements}{11}{section*.3}%
-\contentsline {section}{\numberline {3.2}System Architecture}{11}{section.3.2}%
-\contentsline {subsection}{Overview}{11}{section*.4}%
-\contentsline {subsection}{Architecture Diagram}{12}{section*.4}%
-\contentsline {chapter}{\numberline {4}Implementation}{12}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Technical Setup}{12}{section.4.1}%
-\contentsline {subsection}{Technology Stack}{12}{section*.6}%
-\contentsline {section}{\numberline {4.2}Development Steps}{12}{section.4.2}%
-\contentsline {subsection}{Core Functions Implementation}{12}{section*.8}%
-\contentsline {subsubsection}{Production Order Management}{13}{section*.8}%
-\contentsline {subsubsection}{Component Analysis}{13}{section*.8}%
-\contentsline {subsubsection}{AI-Powered Alternative Discovery}{13}{section*.8}%
-\contentsline {subsection}{AI Agent Configuration}{13}{section*.8}%
-\contentsline {subsection}{Data Flow Process}{14}{section*.8}%
-\contentsline {section}{\numberline {4.3}UI Mockups and UX}{14}{section.4.3}%
-\contentsline {subsection}{User Experience Design}{14}{section*.11}%
-\contentsline {subsection}{Key Features}{15}{section*.11}%
-\contentsline {subsubsection}{Intelligent Component Matching}{15}{section*.11}%
-\contentsline {subsubsection}{Integration Capabilities}{15}{section*.11}%
-\contentsline {chapter}{\numberline {5}Evaluation}{16}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Evaluation Criteria}{16}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Test Setup}{16}{section.5.2}%
-\contentsline {subsection}{Test Environment}{16}{section*.12}%
-\contentsline {subsection}{Test Dataset}{17}{section*.12}%
-\contentsline {subsection}{Test Scenario Explanations}{17}{table.caption.13}%
-\contentsline {subsection}{Testing Methodology}{18}{table.caption.14}%
-\contentsline {section}{\numberline {5.3}Results}{18}{section.5.3}%
-\contentsline {subsection}{Overall Performance}{18}{section*.15}%
-\contentsline {subsection}{Component Recommendation Analysis}{18}{section*.15}%
-\contentsline {subsection}{Key Findings}{19}{section*.15}%
-\contentsline {section}{\numberline {5.4}Discussion of Results}{19}{section.5.4}%
-\contentsline {subsection}{Strengths of the Agent}{19}{section*.16}%
-\contentsline {chapter}{\numberline {6}Discussion and Outlook}{20}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Economic Analysis}{20}{section.6.1}%
-\contentsline {subsection}{Cost Analysis Based on Real Usage Traces}{20}{section*.17}%
-\contentsline {subsubsection}{SAP Joule Pricing Model}{20}{section*.17}%
-\contentsline {subsubsection}{Scenario Analysis: 10 CU Reserved}{20}{section*.17}%
-\contentsline {subsection}{Comparison with OpenAI Pricing}{20}{section*.17}%
-\contentsline {subsection}{Direct Cost Comparison}{21}{section*.17}%
-\contentsline {subsection}{Key Insights}{21}{table.caption.18}%
-\contentsline {subsection}{Scaling Considerations}{22}{Item.24}%
-\contentsline {section}{\numberline {6.2}Challenges and Limitations}{22}{section.6.2}%
-\contentsline {subsection}{Environment and Access Constraints}{22}{section*.19}%
-\contentsline {subsection}{Technical Development Challenges}{22}{section*.19}%
-\contentsline {subsection}{Stability and Performance Issues}{23}{section*.19}%
-\contentsline {subsection}{Documentation and Usability Concerns}{23}{section*.19}%
-\contentsline {subsection}{Comparison with Open-Source Alternatives}{24}{section*.19}%
-\contentsline {section}{\numberline {6.3}Future Work}{24}{section.6.3}%
+\contentsline {chapter}{\numberline {1}Introduction}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Context and Motivation}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Production Order Domain Terminology}{6}{section.1.2}%
+\contentsline {subsection}{General Manufacturing Concepts}{6}{section*.1}%
+\contentsline {subsection}{Production Order Definition and Attributes}{6}{section*.1}%
+\contentsline {subsection}{Production Order Statuses}{6}{section*.1}%
+\contentsline {subsection}{Production Order Process Flow}{6}{table.caption.2}%
+\contentsline {section}{\numberline {1.3}Problem Statement}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Objectives and Research Questions}{7}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Structure of the Report}{7}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Related Work}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Production Order Release in SAP S/4HANA}{8}{section.2.1}%
+\contentsline {section}{\numberline {2.2}SAP Joule}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}SAP Agent Builder}{8}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Solution Design}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Requirements}{8}{section.3.1}%
+\contentsline {subsection}{Functional Requirements}{8}{section*.3}%
+\contentsline {subsection}{Non-Functional Requirements}{9}{section*.3}%
+\contentsline {section}{\numberline {3.2}System Architecture}{9}{section.3.2}%
+\contentsline {subsection}{Overview}{9}{section*.4}%
+\contentsline {subsection}{Architecture Diagram}{9}{section*.4}%
+\contentsline {chapter}{\numberline {4}Implementation}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Technical Setup}{10}{section.4.1}%
+\contentsline {subsection}{Technology Stack}{10}{section*.6}%
+\contentsline {section}{\numberline {4.2}Development Steps}{10}{section.4.2}%
+\contentsline {subsection}{Core Functions Implementation}{10}{section*.8}%
+\contentsline {subsubsection}{Production Order Management}{10}{section*.8}%
+\contentsline {subsubsection}{Component Analysis}{10}{section*.8}%
+\contentsline {subsubsection}{AI-Powered Alternative Discovery}{10}{section*.8}%
+\contentsline {subsection}{AI Agent Configuration}{10}{section*.8}%
+\contentsline {subsection}{Data Flow Process}{11}{section*.8}%
+\contentsline {section}{\numberline {4.3}UI Mockups and UX}{11}{section.4.3}%
+\contentsline {subsection}{User Experience Design}{11}{section*.11}%
+\contentsline {subsection}{Key Features}{12}{section*.11}%
+\contentsline {subsubsection}{Intelligent Component Matching}{12}{section*.11}%
+\contentsline {subsubsection}{Integration Capabilities}{12}{section*.11}%
+\contentsline {chapter}{\numberline {5}Evaluation}{12}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Evaluation Criteria}{12}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Test Setup}{13}{section.5.2}%
+\contentsline {subsection}{Test Environment}{13}{section*.12}%
+\contentsline {subsection}{Test Dataset}{13}{section*.12}%
+\contentsline {subsection}{Test Scenario Explanations}{13}{table.caption.13}%
+\contentsline {subsection}{Testing Methodology}{14}{table.caption.14}%
+\contentsline {section}{\numberline {5.3}Results}{14}{section.5.3}%
+\contentsline {subsection}{Overall Performance}{14}{section*.15}%
+\contentsline {subsection}{Component Recommendation Analysis}{14}{section*.15}%
+\contentsline {subsection}{Key Findings}{15}{section*.15}%
+\contentsline {section}{\numberline {5.4}Discussion of Results}{15}{section.5.4}%
+\contentsline {subsection}{Strengths of the Agent}{15}{section*.16}%
+\contentsline {chapter}{\numberline {6}Discussion and Outlook}{15}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Economic Analysis}{15}{section.6.1}%
+\contentsline {subsection}{Cost Analysis Based on Real Usage Traces}{15}{section*.17}%
+\contentsline {subsubsection}{SAP Joule Pricing Model}{15}{section*.17}%
+\contentsline {subsubsection}{Scenario Analysis: 10 CU Reserved}{16}{section*.17}%
+\contentsline {subsection}{Comparison with OpenAI Pricing}{16}{section*.17}%
+\contentsline {subsection}{Direct Cost Comparison}{16}{section*.17}%
+\contentsline {subsection}{Key Insights}{16}{table.caption.18}%
+\contentsline {subsection}{Scaling Considerations}{17}{Item.24}%
+\contentsline {section}{\numberline {6.2}Challenges and Limitations}{17}{section.6.2}%
+\contentsline {subsection}{Environment and Access Constraints}{17}{section*.19}%
+\contentsline {subsection}{Technical Development Challenges}{17}{section*.19}%
+\contentsline {subsection}{Stability and Performance Issues}{18}{section*.19}%
+\contentsline {subsection}{Documentation and Usability Concerns}{18}{section*.19}%
+\contentsline {subsection}{Comparison with Open-Source Alternatives}{18}{section*.19}%
+\contentsline {section}{\numberline {6.3}Future Work}{18}{section.6.3}%

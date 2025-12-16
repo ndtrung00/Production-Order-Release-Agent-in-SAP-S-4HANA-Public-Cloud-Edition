@@ -301,7 +301,7 @@
 \counterwithout{footnote}{chapter}
 \counterwithout{figure}{chapter}
 \counterwithout{table}{chapter}
-\usepackage[doublespacing]{setspace}
+\usepackage[singlespacing]{setspace}
 \makeatletter
 \makeatother
 \usepackage{enumitem}
