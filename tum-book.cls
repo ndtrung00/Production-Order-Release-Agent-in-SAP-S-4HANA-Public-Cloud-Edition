@@ -232,7 +232,7 @@
     This Interdisciplinary Project and its report was not previously presented to another examination board and has not been published. \par
     \begin{center}
       \vspace{30mm}\noindent
-      \thehood, \thesubmissiondate \hspace{5cm} \@author\par
+      \thehood, \thesubmissiondate \hfill \@author\par
     \end{center}
   }
   \newpage
